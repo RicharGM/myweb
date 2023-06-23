@@ -1,9 +1,19 @@
+body{
+    background-color: #444;
+    color: black;
+}
+
 .contenedor {
-    border: black 3xp;
-    padding: 3rem;
-    margin: 2.5rem;
+    border: 2px solid orchid;
+    border-radius: 15% 0 15% 0;
+    padding: 1.5rem;
+    margin: .5rem;
 }
 .navegador {
     display: flex;
-    align-items: center;    
+    align-items: center;
+    justify-content: space-around;    
+}
+.encabezado{
+    text-align: center;
 }
