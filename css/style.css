@@ -1,0 +1,9 @@
+.contenedor {
+    border: black 3xp;
+    padding: 3rem;
+    margin: 2.5rem;
+}
+.navegador {
+    display: flex;
+    align-items: center;    
+}
